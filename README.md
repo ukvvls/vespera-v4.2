@@ -1,4 +1,4 @@
-# VESPERA V4.1
+# VESPERA V4.2
 
 A separate, local-first VESPERA build. This update restores physical activity tracking as a dedicated section while preserving the V4.1 task and player systems.
 
